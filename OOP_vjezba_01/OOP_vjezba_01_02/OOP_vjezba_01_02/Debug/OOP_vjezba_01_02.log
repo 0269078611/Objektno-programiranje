@@ -1,0 +1,5 @@
+﻿  OOP_vjezba_01_02.cpp
+c:\users\ivan lucic\source\repos\oop_vjezba_01_02\oop_vjezba_01_02\oop_vjezba_01_02.cpp(73): warning C4715: 'matrix::add_mat': not all control paths return a value
+c:\users\ivan lucic\source\repos\oop_vjezba_01_02\oop_vjezba_01_02\oop_vjezba_01_02.cpp(131): warning C4715: 'matrix::multi_mat': not all control paths return a value
+c:\users\ivan lucic\source\repos\oop_vjezba_01_02\oop_vjezba_01_02\oop_vjezba_01_02.cpp(93): warning C4715: 'matrix::sub_mat': not all control paths return a value
+  OOP_vjezba_01_02.vcxproj -> C:\Users\Ivan Lucic\source\repos\OOP_vjezba_01_02\Debug\OOP_vjezba_01_02.exe
