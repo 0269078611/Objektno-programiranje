@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Vector_02_04.cpp
+c:\users\ivan lucic\source\repos\oop_vjezba_02_04\oop_vjezba_02_04\vector_02_04.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\ivan lucic\source\repos\oop_vjezba_02_04\oop_vjezba_02_04\vector_02_04.cpp(33): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  OOP_vjezba_02_04.vcxproj -> C:\Users\Ivan Lucic\source\repos\OOP_vjezba_02_04\Debug\OOP_vjezba_02_04.exe
