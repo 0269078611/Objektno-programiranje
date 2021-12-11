@@ -1,0 +1,5 @@
+﻿  main.cpp
+  OOP_vjezba_05_03.cpp
+c:\users\ivan lucic\source\repos\oop_vjezba_05_03\oop_vjezba_05_03\oop_vjezba_05_03.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  OOP_vjezba_05_03.vcxproj -> C:\Users\Ivan Lucic\source\repos\OOP_vjezba_05_03\Debug\OOP_vjezba_05_03.exe
