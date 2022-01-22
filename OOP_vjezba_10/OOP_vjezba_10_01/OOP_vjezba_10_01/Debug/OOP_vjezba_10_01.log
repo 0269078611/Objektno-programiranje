@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\ivan lucic\source\repos\oop_vjezba_10_01\oop_vjezba_10_01\template.cpp(32): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ivan lucic\source\repos\oop_vjezba_10_01\oop_vjezba_10_01\main.cpp(14): note: see reference to function template instantiation 'void sort_arr<char>(char *,int)' being compiled
+c:\users\ivan lucic\source\repos\oop_vjezba_10_01\oop_vjezba_10_01\template.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\ivan lucic\source\repos\oop_vjezba_10_01\oop_vjezba_10_01\template.cpp(44): warning C4018: '<': signed/unsigned mismatch
+  template.cpp
+  Generating Code...
+  OOP_vjezba_10_01.vcxproj -> C:\Users\Ivan Lucic\source\repos\OOP_vjezba_10_01\Debug\OOP_vjezba_10_01.exe
