@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\ivan lucic\source\repos\oop_vjezba_07\oop_vjezba_07\board.h(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\ivan lucic\source\repos\oop_vjezba_07\oop_vjezba_07\board.h(35): warning C4018: '<': signed/unsigned mismatch
+  OOP_vjezba_07.vcxproj -> C:\Users\Ivan Lucic\source\repos\OOP_vjezba_07\Debug\OOP_vjezba_07.exe
