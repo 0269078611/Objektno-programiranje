@@ -1,0 +1,12 @@
+﻿  ComputerPlayers.cpp
+  game.cpp
+c:\users\ivan lucic\source\repos\oop_vjezba_09\oop_vjezba_09_01\oop_vjezba_09_01\game.cpp(44): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ivan lucic\source\repos\oop_vjezba_09\oop_vjezba_09_01\oop_vjezba_09_01\game.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\ivan lucic\source\repos\oop_vjezba_09\oop_vjezba_09_01\oop_vjezba_09_01\game.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\ivan lucic\source\repos\oop_vjezba_09\oop_vjezba_09_01\oop_vjezba_09_01\game.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\ivan lucic\source\repos\oop_vjezba_09\oop_vjezba_09_01\oop_vjezba_09_01\game.cpp(85): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HumanPlayers.cpp
+c:\users\ivan lucic\source\repos\oop_vjezba_09\oop_vjezba_09_01\oop_vjezba_09_01\humanplayers.cpp(29): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  OOP_vjezba_09_01.vcxproj -> C:\Users\Ivan Lucic\source\repos\OOP_vjezba_09\OOP_vjezba_09_01\Debug\OOP_vjezba_09_01.exe
